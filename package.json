@@ -1,5 +1,5 @@
 {
-  "name": "test-lib",
+  "name": "@ionovitsky/test-lib",
   "version": "1.0.0",
   "description": "very first module",
   "main": "index.js",
